@@ -1,0 +1,26 @@
+# LangChain + LangGraph
+langchain>=1.4
+langgraph>=1.2
+langchain-openai
+langchain-community
+langchain-text-splitters
+
+# Vector RAG
+faiss-cpu
+
+# LLM Gateway
+litellm>=1.106
+
+# Deep Agents
+deepagents>=0.7
+
+# Evaluation
+langsmith>=0.14
+
+# Utilities
+pandas
+python-dotenv
+ipykernel
+
+# Draw the LangGraph graph in the terminal
+grandalf

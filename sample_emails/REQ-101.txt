@@ -1,0 +1,4 @@
+From: divya.pillai@acme.com
+Subject: Read access to prod-db for INC-4412
+
+Hi team, this is Divya Pillai (EMP-2002). I need read access to prod-db for the next 48 hours to debug INC-4412 (orders failing at checkout). It's fairly urgent. You can reach me on +91 98200 11002. Thanks!

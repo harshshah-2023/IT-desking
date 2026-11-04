@@ -1,0 +1,16 @@
+[
+  {"employee_id": "EMP-2001", "name": "Arjun Menon", "status": "active", "type": "employee", "mfa_enrolled": true,
+   "current_ad_groups": ["all-staff", "vpn-users", "eng-all", "eng-managers"], "manager_id": null},
+  {"employee_id": "EMP-2002", "name": "Divya Pillai", "status": "active", "type": "employee", "mfa_enrolled": true,
+   "current_ad_groups": ["all-staff", "vpn-users", "eng-all", "eng-backend"], "manager_id": "EMP-2001"},
+  {"employee_id": "EMP-2003", "name": "Karan Sethi", "status": "active", "type": "employee", "mfa_enrolled": true,
+   "current_ad_groups": ["all-staff", "vpn-users", "eng-all", "eng-backend", "prod-db-readers"], "manager_id": "EMP-2001"},
+  {"employee_id": "EMP-2004", "name": "Tarun Nair", "status": "active", "type": "contractor", "mfa_enrolled": false,
+   "current_ad_groups": ["all-staff", "aws-prod-readonly"], "manager_id": "EMP-2001"},
+  {"employee_id": "EMP-2005", "name": "Neha Kapoor", "status": "active", "type": "contractor", "mfa_enrolled": true,
+   "current_ad_groups": ["all-staff", "vpn-users", "web-team"], "manager_id": "EMP-2001"},
+  {"employee_id": "EMP-2006", "name": "Anita Rao", "status": "active", "type": "employee", "mfa_enrolled": true,
+   "current_ad_groups": ["all-staff", "vpn-users", "finance"], "manager_id": "EMP-2001"},
+  {"employee_id": "EMP-2007", "name": "Rohan Mehta", "status": "terminated", "type": "employee", "mfa_enrolled": false,
+   "current_ad_groups": ["all-staff", "vpn-users", "jira-users"], "manager_id": "EMP-2001"}
+]

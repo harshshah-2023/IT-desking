@@ -1,0 +1,4 @@
+From: neha.kapoor@acme.com
+Subject: Read access to aws-prod for INC-4501
+
+Hello, I'm Neha Kapoor (EMP-2005), contractor on the web team. Please give me read access to aws-prod for 12 hours to check the website logs for incident INC-4501.

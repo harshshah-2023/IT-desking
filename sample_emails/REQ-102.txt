@@ -1,0 +1,4 @@
+From: karan.sethi@acme.com
+Subject: Write access on prod-db
+
+Karan Sethi here (EMP-2003). Requesting WRITE access on prod-db for the next two weeks so I can run the data migration. Not urgent, just planning ahead.

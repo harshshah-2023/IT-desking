@@ -1,0 +1,4 @@
+From: divya.pillai@acme.com
+Subject: Jira read access
+
+Hi, Divya Pillai (EMP-2002) here. Could I get read access to jira for 8 hours to review the sprint board?

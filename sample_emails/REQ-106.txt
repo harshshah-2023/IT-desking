@@ -1,0 +1,4 @@
+From: karan.sethi@acme.com
+Subject: Write access on prod-db for hotfix INC-4420
+
+Hi, Karan Sethi here (EMP-2003). I need write access on prod-db for 6 hours today to apply the hotfix for incident INC-4420. Thanks.
